@@ -1,10 +1,10 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
-  "bedrockPort": 19132,
+  "serverName": "Diamond MC",
+  "serverIp": "play.diamondmc.in",
+  "bedrockPort": 23516,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
-  "logoPath": "logo.jpg",
-  "defaultColour": "red",
+  "discordLink": "https://discord.gg/diamondmc",
+  "logoPath": "e5399a918c7c282c37bb1e36af98ae11(1).webp",
+  "defaultColour": "blue",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
 }
